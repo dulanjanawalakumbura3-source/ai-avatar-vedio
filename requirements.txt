@@ -1,4 +1,1 @@
-streamlit
-opencv-python
-numpy
-requests
+moviepy
