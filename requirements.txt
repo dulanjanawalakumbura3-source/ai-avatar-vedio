@@ -1,3 +1,4 @@
-moviepy=1.0.3
-imageio=2.15.0
-numpy=1.23.5
+streamlit
+moviepy
+imageio
+numpy
